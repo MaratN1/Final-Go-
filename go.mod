@@ -1,4 +1,4 @@
-module gitlab.com/damanbolghanova/se1903Service
+module gitlab.com/maratm/se1903Service
 
 go 1.15
 

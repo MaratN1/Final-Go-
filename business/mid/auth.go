@@ -3,8 +3,8 @@ package mid
 import (
 	"context"
 	"errors"
-	"gitlab.com/damanbolghanova/se1903Service/business/auth"
-	"gitlab.com/damanbolghanova/se1903Service/foundation/web"
+	"gitlab.com/maratm/se1903Service/business/auth"
+	"gitlab.com/maratm/se1903Service/foundation/web"
 	"net/http"
 	"strings"
 )

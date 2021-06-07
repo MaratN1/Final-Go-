@@ -2,7 +2,7 @@ package mid
 
 import (
 	"context"
-	"gitlab.com/damanbolghanova/se1903Service/foundation/web"
+	"gitlab.com/maratm/se1903Service/foundation/web"
 	"log"
 	"net/http"
 

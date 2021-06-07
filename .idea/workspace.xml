@@ -48,19 +48,28 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Go Build.go build gitlab.com/damanbolghanova/se1903Service/app/admin">
-    <configuration name="go build gitlab.com/damanbolghanova/se1903Service/app/admin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build gitlab.com/maratm/se1903Service/app/admin">
+    <configuration name="build" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="SE1903Service" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="gitlab.com/damanbolghanova/se1903Service/app/admin" />
+      <directory value="$PROJECT_DIR$/app" />
+      <filePath value="$PROJECT_DIR$/app/admin/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gitlab.com/maratm/se1903Service/app/admin" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="SE1903Service" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="gitlab.com/damanbolghanova/se1903Service/app/admin" />
+      <package value="gitlab.com/maratm/se1903Service/app/admin" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/app/admin/main.go" />
       <method v="2" />
@@ -71,9 +80,15 @@
       </makefile>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Go Build.build" />
+      <item itemvalue="Go Build.go build gitlab.com/maratm/se1903Service/app/admin" />
+      <item itemvalue="Makefile Target.tidy" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build gitlab.com/damanbolghanova/se1903Service/app/admin" />
+        <item itemvalue="Go Build.go build gitlab.com/maratm/se1903Service/app/admin" />
+        <item itemvalue="Go Build.build" />
         <item itemvalue="Makefile Target.tidy" />
       </list>
     </recent_temporary>

@@ -3,7 +3,7 @@ package mid
 import (
 	"context"
 	"github.com/pkg/errors"
-	"gitlab.com/damanbolghanova/se1903Service/foundation/web"
+	"gitlab.com/maratm/se1903Service/foundation/web"
 	"log"
 	"net/http"
 	"runtime/debug"

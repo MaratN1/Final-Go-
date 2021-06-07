@@ -27,7 +27,7 @@ func main() {
 
 // GenToken generates a JWT for the specified user.
 func tokenGen() {
-	privatePEM, err := ioutil.ReadFile("/Users/daman/goProjects/SE1903Service/private.pem")
+	privatePEM, err := ioutil.ReadFile("C:\\Users\\zhaks\\OneDrive\\Рабочий стол\\Final\\private.pem")
 	if err != nil {
 		log.Fatalln(err)
 		//return errors.Wrap(err, "reading PEM private key file")

@@ -3,7 +3,7 @@ package mid
 import (
 	"context"
 	"expvar"
-	"gitlab.com/damanbolghanova/se1903Service/foundation/web"
+	"gitlab.com/maratm/se1903Service/foundation/web"
 	"net/http"
 	"runtime"
 	"strings"
